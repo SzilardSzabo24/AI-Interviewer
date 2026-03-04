@@ -3,6 +3,6 @@ Mini AI Interviewer is a local AI-powered interview simulation tool built with P
 This project uses the Orca Mini GPT4All model.
 
 1. Download the model manually from:  
-   [https://gpt4all.io/models/](https://huggingface.co/zoltanctoth/orca_mini_3B-GGUF/resolve/main/orca-mini-3b.q4_0.gguf)
+   https://huggingface.co/zoltanctoth/orca_mini_3B-GGUF/resolve/main/orca-mini-3b.q4_0.gguf
 
 2. Place the model in the local folder.
